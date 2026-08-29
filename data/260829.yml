@@ -1,0 +1,76 @@
+about:
+  description: Mirror of Apache HTTP Server. Issues: http://issues.apache.org
+  license: Apache-2.0
+  homepage: https://httpd.apache.org
+  head: cab7472
+  archived: false
+  latestVersion: 
+  collectedAt: 2026-08-29T07:07:01Z
+timeline:
+  created: 2009-05-20
+  lastCommit: 2026-08-28
+  lastRelease: ?
+popularity:
+  star: 4053
+  watcher: 270
+  fork: 1359
+  release: 0
+  contributor: 65
+  pullRequest: 659
+  issue: 0
+language:
+  C: 11505245
+  Python: 1612144
+  Shell: 181955
+  M4: 130981
+  CMake: 58309
+  Makefile: 48413
+  Awk: 36619
+  Perl: 34540
+  PHP: 32590
+  HTML: 30056
+  BitBake: 20321
+  GDB: 17311
+  Lua: 16321
+  Lex: 13810
+  DTrace: 12419
+  Yacc: 10778
+  Batchfile: 5564
+  C++: 3990
+  JavaScript: 839
+  CSS: 443
+  Raku: 200
+totalLine: 13772848
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 0
+    openPR: 12
+    closedIssue: 0
+    openIssue: 0
+    commit: 80
+  last90d:
+    since: 2026-05-31
+    release: 0
+    mergedPR: 0
+    openPR: 31
+    closedIssue: 0
+    openIssue: 0
+    commit: 262
+  last180d:
+    since: 2026-03-02
+    release: 0
+    mergedPR: 0
+    openPR: 38
+    closedIssue: 0
+    openIssue: 0
+    commit: 708
+  last360d:
+    since: 2025-09-03
+    release: 0
+    mergedPR: 0
+    openPR: 41
+    closedIssue: 0
+    openIssue: 0
+    commit: 784
