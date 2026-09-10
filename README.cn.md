@@ -4,13 +4,35 @@
 
 Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 
-![httpd](https://repo.x-cmd.io/httpd.svg)
+![httpd](https://repo.x-cmd.io/httpd.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install httpd
 ```
+
+## 代码洞察
+
+合计: **486,248** 行代码（覆盖前 5 种语言、共 **1486** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| C | 227,046 | 44,045 | 36,859 | 371 |
+| Xml | 85,681 | 5,098 | 8,977 | 285 |
+| Forth | 84,741 | 2 | 14,324 | 255 |
+| Python | 31,159 | 2,674 | 5,019 | 384 |
+| CHeader | 14,545 | 19,277 | 4,853 | 191 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **6.2 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -24,37 +46,18 @@ x install httpd
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 103 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 35156
+- **发布数**: 0 · **已合并 PR**: 0 · **开放 PR**: 101 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 35160
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 15 | 0 | 0 | 81 |
-| 90d | 2026-06-12 | 0 | 0 | 32 | 0 | 0 | 216 |
-| 360d | 2025-09-15 | 0 | 0 | 44 | 0 | 0 | 814 |
-
-## 代码规模
-
-合计: **486,087** 行代码（覆盖前 5 种语言、共 **1482** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| C | 227,041 | 44,042 | 36,859 | 371 |
-| Xml | 85,681 | 5,098 | 8,977 | 285 |
-| Forth | 84,741 | 2 | 14,324 | 255 |
-| Python | 31,026 | 2,661 | 4,990 | 380 |
-| CHeader | 14,545 | 19,277 | 4,853 | 191 |
-
-## OpenSSF Scorecard 评分
-
-总评分: **6.2 / 10**
-
-评分最低的几项:
-
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| 30d | 2026-08-11 | 0 | 0 | 14 | 0 | 0 | 85 |
+| last60d | 2026-07-12 | 0 | 0 | 25 | 0 | 0 | 143 |
+| 90d | 2026-06-12 | 0 | 0 | 30 | 0 | 0 | 220 |
+| last180d | 2026-03-14 | 0 | 0 | 39 | 0 | 0 | 733 |
+| 360d | 2025-09-15 | 0 | 0 | 42 | 0 | 0 | 818 |
+| last720d | 2024-09-20 | 0 | 0 | 58 | 0 | 0 | 1137 |
 
 ## 改进这些数据
 
@@ -65,4 +68,4 @@ httpd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:46:59Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:54:27Z._
