@@ -14,13 +14,13 @@ x install httpd
 
 ## Code insight
 
-Total: **486,311** lines of code across **1486** files in the top 5 languages.
+Total: **486,326** lines of code across **1486** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | C | 227,085 | 44,075 | 36,866 | 371 |
 | Xml | 85,683 | 5,098 | 8,976 | 285 |
-| Forth | 84,741 | 2 | 14,324 | 255 |
+| Forth | 84,756 | 2 | 14,330 | 255 |
 | Python | 31,164 | 2,674 | 5,020 | 384 |
 | CHeader | 14,546 | 19,277 | 4,853 | 191 |
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,031 · **Forks**: 1,355 · **Open issues**: 0 · **Contributors**: 53
+- **Stars**: 4,031 · **Forks**: 1,354 · **Open issues**: 0 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 100 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 35164
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 100 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 35166
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 14 | 0 | 0 | 89 |
-| last60d | 2026-07-14 | 0 | 0 | 24 | 0 | 0 | 147 |
-| 90d | 2026-06-14 | 0 | 0 | 28 | 0 | 0 | 224 |
-| last180d | 2026-03-16 | 0 | 0 | 38 | 0 | 0 | 737 |
-| 360d | 2025-09-17 | 0 | 0 | 41 | 0 | 0 | 822 |
-| last720d | 2024-09-22 | 0 | 0 | 57 | 0 | 0 | 1139 |
+| 30d | 2026-08-14 | 0 | 0 | 14 | 0 | 0 | 84 |
+| last60d | 2026-07-15 | 0 | 0 | 24 | 0 | 0 | 122 |
+| 90d | 2026-06-15 | 0 | 0 | 28 | 0 | 0 | 177 |
+| last180d | 2026-03-17 | 0 | 0 | 38 | 0 | 0 | 728 |
+| 360d | 2025-09-18 | 0 | 0 | 41 | 0 | 0 | 822 |
+| last720d | 2024-09-23 | 0 | 0 | 57 | 0 | 0 | 1141 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for httpd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:33:28Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:46:28Z._
