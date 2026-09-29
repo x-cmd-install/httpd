@@ -14,14 +14,14 @@ x install httpd
 
 ## Code insight
 
-Total: **488,505** lines of code across **1507** files in the top 5 languages.
+Total: **488,700** lines of code across **1518** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 227,548 | 44,204 | 36,956 | 372 |
+| C | 227,551 | 44,204 | 36,957 | 372 |
 | Xml | 86,056 | 5,132 | 9,032 | 287 |
 | Forth | 85,000 | 2 | 14,371 | 256 |
-| Python | 32,208 | 2,930 | 5,235 | 401 |
+| Python | 32,463 | 2,938 | 5,283 | 412 |
 | CHeader | 14,555 | 19,296 | 4,856 | 191 |
 
 ## OpenSSF Scorecard
@@ -46,18 +46,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 86 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 35228
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 84 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 35233
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 0 | 5 | 0 | 0 | 63 |
-| last60d | 2026-07-30 | 0 | 0 | 12 | 0 | 0 | 153 |
-| 90d | 2026-06-30 | 0 | 0 | 21 | 0 | 0 | 210 |
-| last180d | 2026-04-01 | 0 | 0 | 29 | 0 | 0 | 733 |
-| 360d | 2025-10-03 | 0 | 0 | 32 | 0 | 0 | 860 |
-| last720d | 2024-10-08 | 0 | 0 | 44 | 0 | 0 | 1194 |
+| 30d | 2026-08-30 | 0 | 0 | 5 | 0 | 0 | 66 |
+| last60d | 2026-07-31 | 0 | 0 | 10 | 0 | 0 | 156 |
+| 90d | 2026-07-01 | 0 | 0 | 19 | 0 | 0 | 213 |
+| last180d | 2026-04-02 | 0 | 0 | 27 | 0 | 0 | 736 |
+| 360d | 2025-10-04 | 0 | 0 | 30 | 0 | 0 | 863 |
+| last720d | 2024-10-09 | 0 | 0 | 42 | 0 | 0 | 1199 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for httpd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:21:34Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T06:36:34Z._
