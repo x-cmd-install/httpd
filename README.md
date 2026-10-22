@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,032 · **Forks**: 1,338 · **Open issues**: 0 · **Contributors**: 53
+- **Stars**: 4,032 · **Forks**: 1,329 · **Open issues**: 0 · **Contributors**: 53
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 130 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 35326
+- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 131 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 35326
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 0 | 0 | 55 | 0 | 0 | 74 |
-| last60d | 2026-08-22 | 0 | 0 | 60 | 0 | 0 | 188 |
-| 90d | 2026-07-23 | 0 | 0 | 70 | 0 | 0 | 239 |
-| last180d | 2026-04-24 | 0 | 0 | 75 | 0 | 0 | 719 |
-| 360d | 2025-10-26 | 0 | 0 | 81 | 0 | 0 | 918 |
-| last720d | 2024-10-31 | 0 | 0 | 90 | 0 | 0 | 1267 |
+| 30d | 2026-09-22 | 0 | 0 | 57 | 0 | 0 | 74 |
+| last60d | 2026-08-23 | 0 | 0 | 61 | 0 | 0 | 188 |
+| 90d | 2026-07-24 | 0 | 0 | 71 | 0 | 0 | 239 |
+| last180d | 2026-04-25 | 0 | 0 | 76 | 0 | 0 | 719 |
+| 360d | 2025-10-27 | 0 | 0 | 82 | 0 | 0 | 918 |
+| last720d | 2024-11-01 | 0 | 0 | 91 | 0 | 0 | 1267 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for httpd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T05:37:12Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T05:29:26Z._
