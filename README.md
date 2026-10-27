@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-Mirror of Apache HTTP Server. Issues: http://issues.apache.org
+Apache HTTP Server
 
 [![x-cmd/install — httpd Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/httpd.svg)](https://x-cmd.com/install/httpd)
 
@@ -14,15 +14,15 @@ x install httpd
 
 ## Code insight
 
-Total: **494,251** lines of code across **1548** files in the top 5 languages.
+Total: **495,543** lines of code across **1552** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 228,783 | 44,587 | 37,051 | 372 |
-| Xml | 86,321 | 5,132 | 9,042 | 287 |
-| Forth | 85,190 | 2 | 14,397 | 256 |
-| Python | 36,034 | 3,246 | 5,987 | 442 |
-| CHeader | 14,568 | 19,331 | 4,861 | 191 |
+| C | 229,186 | 44,681 | 37,090 | 372 |
+| Xml | 86,430 | 5,132 | 9,052 | 287 |
+| Forth | 85,286 | 2 | 14,404 | 256 |
+| Python | 36,706 | 3,255 | 6,103 | 446 |
+| CHeader | 14,574 | 19,339 | 4,862 | 191 |
 
 ## OpenSSF Scorecard
 
@@ -37,27 +37,27 @@ Lowest-scoring checks:
 ## Source
 
 - **Upstream**: <https://github.com/apache/httpd>
-- **Homepage**: <https://httpd.apache.org>
+- **Homepage**: <https://httpd.apache.org/>
 - **License**: Apache-2.0
 
 ## Popularity
 
-- **Stars**: 4,031 · **Forks**: 1,330 · **Open issues**: 0 · **Contributors**: 54
+- **Stars**: 4,033 · **Forks**: 1,330 · **Open issues**: 0 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 0 · **Open PRs**: 136 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 35371
+- **Releases**: 0 · **Merged PRs**: 1 · **Open PRs**: 136 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 35396
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 0 | 62 | 0 | 0 | 103 |
-| last60d | 2026-08-27 | 0 | 0 | 67 | 0 | 0 | 179 |
-| 90d | 2026-07-28 | 0 | 0 | 70 | 0 | 0 | 278 |
-| last180d | 2026-04-29 | 0 | 0 | 81 | 0 | 0 | 614 |
-| 360d | 2025-10-31 | 0 | 0 | 87 | 0 | 0 | 955 |
-| last720d | 2024-11-05 | 0 | 0 | 96 | 0 | 0 | 1312 |
+| 30d | 2026-09-27 | 0 | 1 | 62 | 0 | 0 | 125 |
+| last60d | 2026-08-28 | 0 | 1 | 66 | 0 | 0 | 201 |
+| 90d | 2026-07-29 | 0 | 1 | 70 | 0 | 0 | 300 |
+| last180d | 2026-04-30 | 0 | 1 | 81 | 0 | 0 | 636 |
+| 360d | 2025-11-01 | 0 | 1 | 86 | 0 | 0 | 977 |
+| last720d | 2024-11-06 | 0 | 1 | 96 | 0 | 0 | 1337 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for httpd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T05:33:14Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T06:06:02Z._
