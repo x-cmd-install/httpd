@@ -14,14 +14,14 @@ x install httpd
 
 ## Code insight
 
-Total: **495,803** lines of code across **1554** files in the top 5 languages.
+Total: **497,037** lines of code across **1570** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 229,186 | 44,681 | 37,090 | 372 |
+| C | 229,227 | 44,687 | 37,094 | 372 |
 | Xml | 86,430 | 5,132 | 9,052 | 287 |
 | Forth | 85,286 | 2 | 14,404 | 256 |
-| Python | 36,847 | 3,257 | 6,139 | 448 |
+| Python | 38,298 | 3,389 | 6,389 | 464 |
 | CHeader | 14,574 | 19,339 | 4,862 | 191 |
 
 ## OpenSSF Scorecard
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,036 · **Forks**: 1,330 · **Open issues**: 0 · **Contributors**: 57
+- **Stars**: 4,037 · **Forks**: 1,331 · **Open issues**: 0 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 4 · **Open PRs**: 141 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 35402
+- **Releases**: 0 · **Merged PRs**: 5 · **Open PRs**: 143 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 35412
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-28 | 0 | 4 | 66 | 0 | 0 | 132 |
-| last60d | 2026-08-29 | 0 | 4 | 70 | 0 | 0 | 208 |
-| 90d | 2026-07-30 | 0 | 4 | 75 | 0 | 0 | 307 |
-| last180d | 2026-05-01 | 0 | 4 | 86 | 0 | 0 | 643 |
-| 360d | 2025-11-02 | 0 | 4 | 91 | 0 | 0 | 984 |
-| last720d | 2024-11-07 | 0 | 4 | 101 | 0 | 0 | 1343 |
+| 30d | 2026-09-29 | 0 | 5 | 67 | 0 | 0 | 142 |
+| last60d | 2026-08-30 | 0 | 5 | 72 | 0 | 0 | 218 |
+| 90d | 2026-07-31 | 0 | 5 | 77 | 0 | 0 | 317 |
+| last180d | 2026-05-02 | 0 | 5 | 88 | 0 | 0 | 653 |
+| 360d | 2025-11-03 | 0 | 5 | 93 | 0 | 0 | 994 |
+| last720d | 2024-11-08 | 0 | 5 | 103 | 0 | 0 | 1352 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for httpd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261028.yml` · 2026-10-28T06:29:35Z._
+_Snapshot: `data/card/261029.yml` · 2026-10-29T06:35:33Z._
