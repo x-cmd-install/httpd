@@ -2,29 +2,29 @@ about:
   description: "Apache HTTP Server"
   license: Apache-2.0
   homepage: https://httpd.apache.org/
-  head: 425ec5e
+  head: 6354a28
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:34:15Z
+  collectedAt: 2026-10-30T06:41:32Z
 timeline:
   created: 2009-05-20
-  lastCommit: 2026-10-28
+  lastCommit: 2026-10-29
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
 popularity:
   star: 4037
-  watcher: 249
-  fork: 1331
+  watcher: 246
+  fork: 1332
   release: 0
   contributor: 59
-  pullRequest: 830
+  pullRequest: 834
   issue: 0
 language:
-  C: 11641115
-  Python: 2096414
+  C: 11645311
+  Python: 2111973
   Shell: 178406
   M4: 132531
   CMake: 60484
@@ -44,71 +44,71 @@ language:
   JavaScript: 839
   CSS: 443
   Raku: 200
-totalBytes: 14415164
+totalBytes: 14434919
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
-    mergedPR: 5
-    openPR: 67
+    mergedPR: 7
+    openPR: 68
     closedIssue: 0
     openIssue: 0
-    commit: 142
+    commit: 173
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
-    mergedPR: 5
-    openPR: 72
+    mergedPR: 7
+    openPR: 73
     closedIssue: 0
     openIssue: 0
-    commit: 218
+    commit: 249
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
-    mergedPR: 5
-    openPR: 77
+    mergedPR: 7
+    openPR: 78
     closedIssue: 0
     openIssue: 0
-    commit: 317
+    commit: 348
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
-    mergedPR: 5
-    openPR: 88
+    mergedPR: 7
+    openPR: 89
     closedIssue: 0
     openIssue: 0
-    commit: 653
+    commit: 684
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 0
-    mergedPR: 5
-    openPR: 93
+    mergedPR: 7
+    openPR: 94
     closedIssue: 0
     openIssue: 0
-    commit: 994
+    commit: 1025
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 0
-    mergedPR: 5
-    openPR: 103
+    mergedPR: 7
+    openPR: 104
     closedIssue: 0
     openIssue: 0
-    commit: 1352
+    commit: 1372
 total:
   release: 0
-  mergedPR: 5
-  openPR: 143
+  mergedPR: 7
+  openPR: 144
   closedIssue: 0
   openIssue: 0
-  commit: 35412
+  commit: 35432
 ---
 path: /home/runner/.x-repo/github.com/apache/httpd
-collectedAt: 2026-10-29T06:35:24Z
+collectedAt: 2026-10-30T06:43:09Z
 loc:
   C:
-    code: 229227
-    comments: 44687
-    blanks: 37094
+    code: 229237
+    comments: 44740
+    blanks: 37096
     files: 372
   Xml:
     code: 86430
@@ -121,10 +121,10 @@ loc:
     blanks: 14404
     files: 256
   Python:
-    code: 38298
-    comments: 3389
-    blanks: 6389
-    files: 464
+    code: 38526
+    comments: 3435
+    blanks: 6430
+    files: 466
   CHeader:
     code: 14574
     comments: 19339
@@ -257,14 +257,14 @@ loc:
     files: 9
   Text:
     code: 0
-    comments: 807
+    comments: 810
     blanks: 81
-    files: 226
+    files: 228
 total:
-  code: 497171
-  comments: 82701
-  blanks: 78475
-  files: 2741
+  code: 497409
+  comments: 82803
+  blanks: 78518
+  files: 2745
 ---
 date: "2026-10-26"
 repo:
