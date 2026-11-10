@@ -14,23 +14,23 @@ x install httpd
 
 ## Code insight
 
-Total: **503,866** lines of code across **1615** files in the top 5 languages.
+Total: **505,333** lines of code across **1640** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 234,359 | 45,163 | 37,612 | 391 |
-| Xml | 86,448 | 5,132 | 9,052 | 287 |
+| C | 234,394 | 45,177 | 37,610 | 391 |
+| Xml | 86,455 | 5,132 | 9,052 | 287 |
 | Forth | 85,563 | 2 | 14,466 | 257 |
-| Python | 38,743 | 3,495 | 6,459 | 468 |
-| CHeader | 15,153 | 20,402 | 5,146 | 212 |
+| Python | 40,086 | 3,527 | 6,729 | 493 |
+| CHeader | 15,159 | 20,402 | 5,145 | 212 |
 
 ## OpenSSF Scorecard
 
-Overall score: **6.7 / 10**
+Overall score: **6.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 5/20 approved changesets -- score normalized to 2
+- **Code-Review** (3/10) — Found 9/27 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,041 · **Forks**: 1,336 · **Open issues**: 0 · **Contributors**: 63
+- **Stars**: 4,042 · **Forks**: 1,336 · **Open issues**: 0 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 46 · **Open PRs**: 161 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 35463
+- **Releases**: 0 · **Merged PRs**: 63 · **Open PRs**: 168 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 35486
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 46 | 62 | 0 | 0 | 172 |
-| last60d | 2026-09-09 | 0 | 46 | 89 | 0 | 0 | 253 |
-| 90d | 2026-08-10 | 0 | 46 | 95 | 0 | 0 | 354 |
-| last180d | 2026-05-12 | 0 | 46 | 106 | 0 | 0 | 637 |
-| 360d | 2025-11-13 | 0 | 46 | 111 | 0 | 0 | 1059 |
-| last720d | 2024-11-18 | 0 | 46 | 121 | 0 | 0 | 1401 |
+| 30d | 2026-10-11 | 0 | 62 | 65 | 0 | 0 | 201 |
+| last60d | 2026-09-11 | 0 | 63 | 96 | 0 | 0 | 282 |
+| 90d | 2026-08-12 | 0 | 63 | 102 | 0 | 0 | 383 |
+| last180d | 2026-05-14 | 0 | 63 | 113 | 0 | 0 | 666 |
+| 360d | 2025-11-15 | 0 | 63 | 118 | 0 | 0 | 1088 |
+| last720d | 2024-11-20 | 0 | 63 | 128 | 0 | 0 | 1424 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for httpd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T06:47:28Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:19:48Z._
