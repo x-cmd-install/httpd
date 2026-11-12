@@ -14,15 +14,15 @@ x install httpd
 
 ## Code insight
 
-Total: **506,020** lines of code across **1650** files in the top 5 languages.
+Total: **506,664** lines of code across **1662** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 234,453 | 45,185 | 37,616 | 391 |
+| C | 234,483 | 45,186 | 37,618 | 391 |
 | Xml | 86,455 | 5,132 | 9,052 | 287 |
-| Forth | 85,563 | 2 | 14,466 | 257 |
-| Python | 40,687 | 3,566 | 6,823 | 503 |
-| CHeader | 15,159 | 20,402 | 5,145 | 212 |
+| Forth | 85,579 | 2 | 14,468 | 257 |
+| Python | 41,270 | 3,578 | 6,939 | 515 |
+| CHeader | 15,162 | 20,402 | 5,146 | 212 |
 
 ## OpenSSF Scorecard
 
@@ -42,22 +42,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,044 · **Forks**: 1,337 · **Open issues**: 0 · **Contributors**: 65
+- **Stars**: 4,046 · **Forks**: 1,337 · **Open issues**: 0 · **Contributors**: 66
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 69 · **Open PRs**: 169 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 35494
+- **Releases**: 0 · **Merged PRs**: 76 · **Open PRs**: 172 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 35501
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 67 | 64 | 0 | 0 | 211 |
-| last60d | 2026-09-12 | 0 | 69 | 97 | 0 | 0 | 292 |
-| 90d | 2026-08-13 | 0 | 69 | 103 | 0 | 0 | 393 |
-| last180d | 2026-05-15 | 0 | 69 | 114 | 0 | 0 | 676 |
-| 360d | 2025-11-16 | 0 | 69 | 119 | 0 | 0 | 1098 |
-| last720d | 2024-11-21 | 0 | 69 | 129 | 0 | 0 | 1429 |
+| 30d | 2026-10-13 | 0 | 72 | 65 | 0 | 0 | 220 |
+| last60d | 2026-09-13 | 0 | 76 | 100 | 0 | 0 | 301 |
+| 90d | 2026-08-14 | 0 | 76 | 106 | 0 | 0 | 402 |
+| last180d | 2026-05-16 | 0 | 76 | 117 | 0 | 0 | 685 |
+| 360d | 2025-11-17 | 0 | 76 | 122 | 0 | 0 | 1107 |
+| last720d | 2024-11-22 | 0 | 76 | 132 | 0 | 0 | 1436 |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for httpd lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:14:18Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:25:31Z._
